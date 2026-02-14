@@ -1,0 +1,10 @@
+# Compiled files
+*.exe
+*.o
+*.obj
+
+# VS Code settings
+.vscode/
+
+# Data files (optional - remove if you want to track them)
+Records.txt
